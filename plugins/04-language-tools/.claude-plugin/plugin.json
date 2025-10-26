@@ -2,7 +2,8 @@
   "name": "language-tools",
   "version": "1.0.0",
   "description": "Language-specific debugging and optimization tools for Python, React, TypeScript, and performance profiling",
-  "author": "Claude Code Workflow",
-  "tags": ["python", "react", "typescript", "performance", "debugging"],
-  "homepage": "https://github.com/your-username/claude-code-agents-workflow"
+  "author": {
+    "name": "Claude Code Community"
+  },
+  "homepage": "https://github.com/blcktgr73/claude-dev-agent-toolkit"
 }

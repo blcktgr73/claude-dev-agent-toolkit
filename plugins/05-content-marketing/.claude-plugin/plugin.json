@@ -2,7 +2,8 @@
   "name": "content-marketing-toolkit",
   "version": "1.0.0",
   "description": "Content marketing and copywriting tools for creating engaging blog posts, social media content, and marketing materials",
-  "author": "Claude Code Workflow",
-  "tags": ["content", "marketing", "copywriting", "social-media", "seo"],
-  "homepage": "https://github.com/your-username/claude-code-agents-workflow"
+  "author": {
+    "name": "Claude Code Community"
+  },
+  "homepage": "https://github.com/blcktgr73/claude-dev-agent-toolkit"
 }
