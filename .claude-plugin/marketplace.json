@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Comprehensive development workflow plugins with specialized agents, commands, and knowledge skills for product design, development, debugging, and content creation",
   "author": "Claude Code Community",
-  "homepage": "https://github.com/your-username/claude-dev-agent-toolkit",
+  "homepage": "https://github.com/blcktgr73/claude-dev-agent-toolkit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/claude-dev-agent-toolkit.git"
+    "url": "https://github.com/blcktgr73/claude-dev-agent-toolkit.git"
   },
   "keywords": [
     "claude-code",

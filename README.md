@@ -54,7 +54,7 @@ This is the recommended installation method, especially for Windows users.
 
 #### Step 1: Add Marketplace
 ```bash
-/plugin marketplace add https://github.com/your-username/claude-dev-agent-toolkit
+/plugin marketplace add https://github.com/blcktgr73/claude-dev-agent-toolkit
 ```
 
 #### Step 2: Install Plugins
@@ -103,7 +103,7 @@ If you prefer to install manually:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/claude-dev-agent-toolkit.git
+   git clone https://github.com/blcktgr73/claude-dev-agent-toolkit.git
    cd claude-dev-agent-toolkit
    ```
 

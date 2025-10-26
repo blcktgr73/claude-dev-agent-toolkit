@@ -54,7 +54,7 @@ Windows 사용자에게 특히 권장되는 설치 방법입니다.
 
 #### Step 1: Marketplace 추가
 ```bash
-/plugin marketplace add https://github.com/your-username/claude-dev-agent-toolkit
+/plugin marketplace add https://github.com/blcktgr73/claude-dev-agent-toolkit
 ```
 
 #### Step 2: 플러그인 설치
@@ -103,7 +103,7 @@ Windows 사용자에게 특히 권장되는 설치 방법입니다.
 
 1. **저장소 클론**
    ```bash
-   git clone https://github.com/your-username/claude-dev-agent-toolkit.git
+   git clone https://github.com/blcktgr73/claude-dev-agent-toolkit.git
    cd claude-dev-agent-toolkit
    ```
 
