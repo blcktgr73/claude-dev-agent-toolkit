@@ -329,6 +329,20 @@ The plugin architecture optimizes token usage by:
 
 **Token Savings**: Up to 60-70% reduction compared to monolithic agent files.
 
+### ⚠️ Important Note for Small Projects
+
+For small-scale, single-person projects, plugins may consume more tokens compared to manual workflow management. According to [this detailed analysis](https://technical-leader.tistory.com/226), Anthropic suggests that plugins are more advantageous in large-scale projects with many participants.
+
+### Token Usage Comparison (40-hour project)
+
+| Phase | Plugin | Manual | Difference |
+| --- | --- | --- | --- |
+| Planning | 50K | 20K | **+150%** |
+| Implementation | 900K | 120K | **+650%** |
+| **Total** | **960K** | **140K** | **+586%** |
+
+**Recommendation**: For small projects or solo development, consider using manual workflows. Plugins shine in larger team environments where their structure and orchestration benefits outweigh the token overhead.
+
 ## 💡 Best Practices
 
 ### When to Use Which Plugin
