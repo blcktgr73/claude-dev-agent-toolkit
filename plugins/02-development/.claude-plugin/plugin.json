@@ -1,0 +1,8 @@
+{
+  "name": "development-toolkit",
+  "version": "1.0.0",
+  "description": "Development best practices including testing strategies, code review checklists, API design principles, and implementation patterns",
+  "author": "Claude Code Workflow",
+  "tags": ["development", "testing", "code-review", "api-design", "best-practices"],
+  "homepage": "https://github.com/your-username/claude-code-agents-workflow"
+}

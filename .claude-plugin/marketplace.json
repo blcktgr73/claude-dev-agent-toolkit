@@ -1,0 +1,56 @@
+{
+  "name": "claude-dev-agent-toolkit",
+  "version": "1.0.0",
+  "description": "Comprehensive development workflow plugins with specialized agents, commands, and knowledge skills for product design, development, debugging, and content creation",
+  "author": "Claude Code Community",
+  "homepage": "https://github.com/your-username/claude-dev-agent-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-dev-agent-toolkit.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-plugin",
+    "ai-agents",
+    "workflow",
+    "development",
+    "design-patterns",
+    "solid-principles",
+    "testing",
+    "debugging",
+    "code-quality"
+  ],
+  "license": "MIT",
+  "plugins": [
+    {
+      "name": "product-design-toolkit",
+      "path": "plugins/01-product-design",
+      "description": "Product strategy, UX design, and software architecture with SOLID principles and design patterns",
+      "version": "1.0.0"
+    },
+    {
+      "name": "development-toolkit",
+      "path": "plugins/02-development",
+      "description": "Implementation best practices, testing strategies, and API design principles",
+      "version": "1.0.0"
+    },
+    {
+      "name": "debugging-toolkit",
+      "path": "plugins/03-debugging",
+      "description": "Systematic debugging workflow with specialized diagnostic agents",
+      "version": "1.0.0"
+    },
+    {
+      "name": "language-tools",
+      "path": "plugins/04-language-tools",
+      "description": "Language-specific debugging and optimization for Python, React, TypeScript",
+      "version": "1.0.0"
+    },
+    {
+      "name": "content-marketing-toolkit",
+      "path": "plugins/05-content-marketing",
+      "description": "Content creation and SEO-optimized marketing materials",
+      "version": "1.0.0"
+    }
+  ]
+}
