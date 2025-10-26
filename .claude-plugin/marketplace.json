@@ -2,7 +2,9 @@
   "name": "claude-dev-agent-toolkit",
   "version": "1.0.0",
   "description": "Comprehensive development workflow plugins with specialized agents, commands, and knowledge skills for product design, development, debugging, and content creation",
-  "owner": "blcktgr73",
+  "owner": {
+    "name": "blcktgr73"
+  },
   "author": "Claude Code Community",
   "homepage": "https://github.com/blcktgr73/claude-dev-agent-toolkit",
   "repository": {
@@ -25,31 +27,31 @@
   "plugins": [
     {
       "name": "product-design-toolkit",
-      "source": "plugins/01-product-design",
+      "source": "./plugins/01-product-design",
       "description": "Product strategy, UX design, and software architecture with SOLID principles and design patterns",
       "version": "1.0.0"
     },
     {
       "name": "development-toolkit",
-      "source": "plugins/02-development",
+      "source": "./plugins/02-development",
       "description": "Implementation best practices, testing strategies, and API design principles",
       "version": "1.0.0"
     },
     {
       "name": "debugging-toolkit",
-      "source": "plugins/03-debugging",
+      "source": "./plugins/03-debugging",
       "description": "Systematic debugging workflow with specialized diagnostic agents",
       "version": "1.0.0"
     },
     {
       "name": "language-tools",
-      "source": "plugins/04-language-tools",
+      "source": "./plugins/04-language-tools",
       "description": "Language-specific debugging and optimization for Python, React, TypeScript",
       "version": "1.0.0"
     },
     {
       "name": "content-marketing-toolkit",
-      "source": "plugins/05-content-marketing",
+      "source": "./plugins/05-content-marketing",
       "description": "Content creation and SEO-optimized marketing materials",
       "version": "1.0.0"
     }
